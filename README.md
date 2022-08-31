@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### sudo docker-compose up -d --build
+### docker-compose up -d --build
 
 Runs the app in the development mode.\
 Open [http://localhost:3002](http://localhost:3002) to view it in your browser.
